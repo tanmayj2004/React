@@ -1,12 +1,12 @@
 import './App.css'
-import Title from './Title.jsx';
+import Button from './button';
 
 
 function App() {
   
   return (
     <div>
-      <Title />
+      <Button />
     </div>
   );
 }
